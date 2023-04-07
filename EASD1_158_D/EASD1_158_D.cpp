@@ -5,6 +5,7 @@
 4. Menurut saya Insertion sort karena membandingkan dan memindahkan elemen ke posisi yang tepat didalam susunan data yang sudah diurutkan
 5. Quadratic : Bubble Sort, Selection Sort, dan Insertion Sort
 	Loglinear : Merge Sort dan Quick Sort
+
 6. Selection sort:
 **/
 
