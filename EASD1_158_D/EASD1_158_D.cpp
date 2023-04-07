@@ -16,6 +16,7 @@ const int i = 58 + 20 - 2 * 15 + 10 + 20;
 int iqbal[i];
 int n;
 
+
 void input() {
 	cout << "Masukkan " << n << " angka : ";
 	for (int i = 0; i < n; i++) {
