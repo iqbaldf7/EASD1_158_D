@@ -24,6 +24,7 @@ void input() {
 }
 
 
+
 void selectionsort() {
 	for (int ID = 0; ID < n; ID++) {
 		int min_index = ID;
