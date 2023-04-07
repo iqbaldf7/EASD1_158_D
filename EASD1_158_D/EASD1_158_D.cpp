@@ -37,6 +37,7 @@ void selectionsort() {
 	}
 }
 
+
 void display() {
 
 	cout << "Data urut : ";
